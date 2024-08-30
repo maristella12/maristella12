@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maristella Bittencourt Nogueira
-- 👀 I’m interested in Books, coding and music.
+- 👀 I’m interested in arts, coding and music.
 - 🌱 I’m currently learning Full Stack   ...
 - 💞️ I’m looking to collaborate on Full Stack projects .
 - 📫 How to reach me ...
